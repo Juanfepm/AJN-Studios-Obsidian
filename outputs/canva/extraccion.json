@@ -1,0 +1,38 @@
+{
+  "source": "Graficos y Canvas/Idle Pirate/Fuentes/Idle Pirate Game.pdf",
+  "thematic_graphics": [
+    "01-equipo-y-patrocinio.png",
+    "02-planificacion-y-monedas.png",
+    "04-trabajos-y-ejecucion.svg",
+    "06-isla-y-propiedades.png",
+    "07-estructuras.png",
+    "08-interacciones-de-la-isla.png",
+    "12-crew-y-rangos-completos.png",
+    "13-minijuegos-y-probabilidades.png"
+  ],
+  "obsolete_graphics": [
+    "02-alpha-y-beta.png",
+    "03-monedas.png",
+    "04-trabajos-por-zona.png",
+    "05-sistema-de-trabajos.png",
+    "08-beneficios.png",
+    "09-taberna.png",
+    "10-recompensas.png",
+    "11-mercado.png",
+    "12-crew-y-rangos.png",
+    "13-dardos.png",
+    "14-ruleta.png"
+  ],
+  "protected_sha256": {
+    "Graficos y Canvas/Idle Pirate/Graficos/00-vista-completa.png": "003bdd6e17781c833487620cacbb7e158409f26b0b557cd3c56afaec88a8d7fe",
+    "Graficos y Canvas/Idle Pirate/Graficos/15-precios-referencia.png": "e64c49b39b9093077840924f59987ba8f1f103ccd5d84efe496811da903cef6c",
+    "Graficos y Canvas/Idle Pirate/Fuentes/Idle Pirate Game.pdf": "b24f73f0c9ca29bdf21d0149ea8022a8e94d718bed477d2d409dac04918d8268",
+    "Gamepasses y Precios/Gamepasses y precios.md": "a44bda4ad6d9529c055c0b0d7f3deb2fa93d498c12f016361819e8da41aa80f5",
+    "Gamepasses y Precios/Pet Crate - Probabilidades.md": "c50d15da72f984ea9c826361aa1deb167270a966ed6935913cb71fa39adc3470"
+  },
+  "original_resources": "Removed after reference verification; retained graphics are standalone.",
+  "jobs_reconstruction_sources": {
+    "job_names": 3,
+    "execution_rules": 1
+  }
+}

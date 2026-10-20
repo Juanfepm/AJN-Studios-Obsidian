@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tablas y Datos/Adventure_Events_And_MiniEvents.md",
+                "file": "Documentacion/Documento en blanco para creación de carpeta en git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adventure_Events_And_MiniEvents"
+              "title": "Documento en blanco para creación de carpeta en git"
             }
           }
         ],
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,43 +218,53 @@
       "copilot:Open Copilot Agent Chat": false
     }
   },
-  "active": "ed00681a7a6b69c6",
+  "active": "8b0c2eecbc00e3be",
   "lastOpenFiles": [
-    "copilot/copilot-conversations/agent__Si_te_paso_un_link_de_canva_(canva_web)_puedes@20261019_194348.md",
-    "Tablas y Datos/Crafting_Recipes.md",
+    "Graficos y Canvas/Documento en blanco para creación de carpeta en git.md",
+    "Graficos y Canvas/Idle Pirate/Tablero - Idle Pirate.canvas",
+    "Graficos y Canvas/Idle Pirate/Mesa de trabajo - Idle Pirate.md",
+    "Graficos y Canvas/Idle Pirate/Graficos/15-precios-referencia.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/13-minijuegos-y-probabilidades.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/12-crew-y-rangos-completos.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/08-interacciones-de-la-isla.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/07-estructuras.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/06-isla-y-propiedades.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/04-trabajos-y-ejecucion.svg",
+    "Graficos y Canvas/Idle Pirate/Graficos/02-planificacion-y-monedas.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/01-equipo-y-patrocinio.png",
+    "Graficos y Canvas/Idle Pirate/Graficos/00-vista-completa.png",
+    "Graficos y Canvas/Idle Pirate/Fuentes/Idle Pirate Game.pdf",
+    "Gamepasses y Precios/Gamepasses y precios.md",
+    "Gamepasses y Precios/Pet Crate - Probabilidades.md",
+    "outputs/depurar_graficos.py",
+    "Graficos y Canvas/Idle Pirate/Recursos originales/Índice de recursos.md",
+    "Tablas y Datos/Tabla_Niveles_y_Trabajos.md",
+    "Tablas y Datos/Properties_structure_game.md",
+    "Tablas y Datos/Pirate_Items_Table.md",
     "Tablas y Datos/Documento en blanco para creación de carpeta en git 1.md",
     "Tablas y Datos/Adventure_Events_And_MiniEvents.md",
+    "outputs/colorear_items.py",
+    "outputs/canva/extraccion.json",
+    "outputs/canva",
+    "Graficos y Canvas/Idle Pirate/Fuentes",
+    "Graficos y Canvas/Idle Pirate/Recursos originales",
+    "Graficos y Canvas/Idle Pirate/Graficos",
+    "Graficos y Canvas/Idle Pirate",
+    "Gamepasses y Precios",
+    "copilot/copilot-conversations/agent__Si_te_paso_un_link_de_canva_(canva_web)_puedes@20261019_194348.md",
+    "Tablas y Datos/Crafting_Recipes.md",
     "Tablas y Datos/Índice de tablas - Idle Pirate Game.md",
     "Tablas y Datos/Mejoras_Barco_Aventura.md",
-    "Tablas y Datos/Properties_structure_game.md",
     "Tablas y Datos/Pirate_Game_Robux_Chest_Odds final.md",
-    "Tablas y Datos/Pirate_Items_Table.md",
-    "Tablas y Datos/Tabla_Niveles_y_Trabajos.md",
     "copilot/copilot-conversations/agent__Quiero_importar_varias_tablas_de_excel_a_mi_obsidian,_tengo@20261018_181430.md",
-    "Graficos y Canvas/Documento en blanco para creación de carpeta en git.md",
     "Documentacion/Documento en blanco para creación de carpeta en git.md",
     "copilot/copilot-conversations/agent__Analiza_las_3_carpetas_que_hay_(excluye_la_de_copilot)@20261018_181048.md",
-    "copilot/copilot-conversations",
     "Bienvenido.md",
     "copilot/skills/miyo-parse/SKILL.md",
-    "copilot/skills/miyo-parse/miyo-parse.cmd",
-    "copilot/skills/miyo-parse/miyo-parse.sh",
-    "copilot/skills/miyo-parse",
     "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/obsidian-cli/LICENSE",
-    "copilot/skills/obsidian-cli",
     "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/LICENSE",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/json-canvas/references",
-    "copilot/skills/json-canvas",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/LICENSE",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md"
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md"
   ]
 }

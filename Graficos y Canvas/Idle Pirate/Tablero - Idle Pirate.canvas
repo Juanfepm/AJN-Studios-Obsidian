@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"0000000000000003","type":"group","x":0,"y":1150,"width":2300,"height":2000,"color":"5","label":"Isla"},
+		{"id":"0000000000000004","type":"group","x":2400,"y":0,"width":1100,"height":1550,"color":"6","label":"Crew y minijuegos"},
+		{"id":"0000000000000001","type":"group","x":0,"y":0,"width":1100,"height":1050,"color":"4","label":"Planificación"},
+		{"id":"0000000000000002","type":"group","x":1200,"y":0,"width":1100,"height":1050,"color":"2","label":"Trabajos"},
+		{"id":"0000000000000005","type":"text","text":"# Planificación\n\nGráficos de la página 1 · Amplía cada tarjeta para ver el detalle.","x":40,"y":40,"width":1020,"height":90},
+		{"id":"0000000000000009","type":"text","text":"**Equipo y patrocinio**","x":40,"y":140,"width":620,"height":30},
+		{"id":"000000000000000a","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/01-equipo-y-patrocinio.png","x":40,"y":180,"width":620,"height":234},
+		{"id":"000000000000000b","type":"text","text":"**Alpha, Beta y monedas**","x":40,"y":430,"width":1020,"height":30},
+		{"id":"000000000000000c","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/02-planificacion-y-monedas.png","x":40,"y":470,"width":1020,"height":295},
+		{"id":"0000000000000014","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/06-isla-y-propiedades.png","x":40,"y":1330,"width":1120,"height":560},
+		{"id":"0000000000000017","type":"text","text":"**Beneficios e interacciones · Taberna, recompensas y mercado**","x":40,"y":1970,"width":2200,"height":30},
+		{"id":"0000000000000018","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/08-interacciones-de-la-isla.png","x":40,"y":2010,"width":2200,"height":1076},
+		{"id":"0000000000000015","type":"text","text":"**Estructuras**","x":1220,"y":1290,"width":470,"height":30},
+		{"id":"0000000000000007","type":"text","text":"# Isla\n\nGráficos de la página 1 · Amplía cada tarjeta para ver el detalle.","x":40,"y":1190,"width":2220,"height":90},
+		{"id":"0000000000000013","type":"text","text":"**Isla y propiedades**","x":40,"y":1290,"width":1120,"height":30},
+		{"id":"0000000000000016","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/07-estructuras.png","x":1220,"y":1330,"width":470,"height":367},
+		{"id":"0000000000000006","type":"text","text":"# Trabajos\n\nEsquema legible reconstruido con las páginas 1 y 3 del PDF.","x":1240,"y":40,"width":1020,"height":90},
+		{"id":"000000000000000f","type":"text","text":"**Trabajos por zona y reglas de ejecución**","x":1240,"y":140,"width":1020,"height":30},
+		{"id":"0000000000000010","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/04-trabajos-y-ejecucion.svg","x":1240,"y":180,"width":1020,"height":803},
+		{"id":"0000000000000026","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/00-vista-completa.png","x":2400,"y":2000,"width":1100,"height":781},
+		{"id":"0000000000000025","type":"text","text":"# Consulta y referencias\n\n[[Gamepasses y precios]] · [[Pet Crate - Probabilidades]]\n\n[[Pirate_Items_Table]] · [[Mesa de trabajo - Idle Pirate]]\n\n[[Graficos y Canvas/Idle Pirate/Fuentes/Idle Pirate Game.pdf|PDF original]]","x":2400,"y":1680,"width":1100,"height":210},
+		{"id":"0000000000000008","type":"text","text":"# Crew y minijuegos\n\nGráficos de la página 1 · Amplía cada tarjeta para ver el detalle.","x":2440,"y":40,"width":1020,"height":90},
+		{"id":"000000000000001f","type":"text","text":"**Crew y rangos · Recorte completo**","x":2440,"y":140,"width":1020,"height":30},
+		{"id":"0000000000000020","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/12-crew-y-rangos-completos.png","x":2440,"y":180,"width":1020,"height":554},
+		{"id":"0000000000000021","type":"text","text":"**Sala de juegos, ruleta y probabilidades**","x":2440,"y":780,"width":1020,"height":30},
+		{"id":"0000000000000022","type":"file","file":"Graficos y Canvas/Idle Pirate/Graficos/13-minijuegos-y-probabilidades.png","x":2440,"y":840,"width":1020,"height":588}
+	],
+	"edges":[]
+}

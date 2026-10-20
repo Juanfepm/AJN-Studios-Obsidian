@@ -60,3 +60,10 @@ Las tablas son editables en Obsidian. Los resultados de fórmulas se conservan c
 - [[Crafting_Recipes#Recipe List|Recipe List]]
 - [[Crafting_Recipes#Material Usage|Material Usage]]
 
+## Diseño y precios
+
+| Consulta | Contenido |
+| --- | --- |
+| [[Mesa de trabajo - Idle Pirate]] | Tablero visual, 8 gráficos agrupados y trabajos reconstruidos |
+| [[Gamepasses y precios]] | Dardos, trabajos, propiedades y cajas |
+| [[Pet Crate - Probabilidades]] | Distribución por calidad y 17 mascotas |

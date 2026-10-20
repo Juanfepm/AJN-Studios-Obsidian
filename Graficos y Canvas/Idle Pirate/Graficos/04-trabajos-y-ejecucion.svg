@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1260" viewBox="0 0 1600 1260">
+<title>Trabajos de Idle Pirate por zona y reglas de ejecución</title>
+<desc>Reconstrucción de los trabajos de la página 3 y las reglas de la página 1 del PDF; no reproduce los textos cortados del recorte original.</desc>
+<rect width="1600" height="1260" rx="24" fill="#f1f5f6"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#20383f">
+<text x="44" y="65" font-size="42" font-weight="700">TRABAJOS POR ZONA</text>
+<text x="44" y="108" font-size="24" font-weight="400">27 trabajos · Nombres de la página 3 · Esquema reconstruido para facilitar la lectura</text>
+<rect x="225" y="150" width="430" height="64" rx="12" fill="#203d47"/>
+<text x="247" y="192" font-size="27" font-weight="700" fill="#ffffff">SHIP · BARCO</text>
+<rect x="680" y="150" width="430" height="64" rx="12" fill="#203d47"/>
+<text x="702" y="192" font-size="27" font-weight="700" fill="#ffffff">PORT · PUERTO</text>
+<rect x="1135" y="150" width="430" height="64" rx="12" fill="#203d47"/>
+<text x="1157" y="192" font-size="27" font-weight="700" fill="#ffffff">TOWN · CIUDAD</text>
+<rect x="34" y="235" width="166" height="66" rx="10" fill="#d9e9df"/>
+<text x="48" y="276" font-size="23" font-weight="700" fill="#20383f">EASY</text>
+<rect x="225" y="235" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="274" font-size="23" font-weight="500">Scrub the Deck</text>
+<rect x="680" y="235" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="274" font-size="23" font-weight="500">Unload Cargo</text>
+<rect x="1135" y="235" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="274" font-size="23" font-weight="500">Deliver Messages</text>
+<rect x="34" y="307" width="166" height="66" rx="10" fill="#d9e9df"/>
+<text x="48" y="348" font-size="23" font-weight="700" fill="#20383f">EASY</text>
+<rect x="225" y="307" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="346" font-size="23" font-weight="500">Coil the Ropes</text>
+<rect x="680" y="307" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="346" font-size="23" font-weight="500">Stack Supplies</text>
+<rect x="1135" y="307" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="346" font-size="23" font-weight="500">Run Market Errands</text>
+<rect x="34" y="379" width="166" height="66" rx="10" fill="#d9e9df"/>
+<text x="48" y="420" font-size="23" font-weight="700" fill="#20383f">EASY</text>
+<rect x="225" y="379" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="418" font-size="23" font-weight="500">Clean the Hull</text>
+<rect x="680" y="379" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="418" font-size="23" font-weight="500">Move Barrels</text>
+<rect x="1135" y="379" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="418" font-size="23" font-weight="500">Help at the Tavern</text>
+<rect x="34" y="451" width="166" height="66" rx="10" fill="#eadac6"/>
+<text x="48" y="492" font-size="23" font-weight="700" fill="#20383f">MEDIUM</text>
+<rect x="225" y="451" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="490" font-size="23" font-weight="500">Patch the Sails</text>
+<rect x="680" y="451" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="490" font-size="23" font-weight="500">Repair the Docks</text>
+<rect x="1135" y="451" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="490" font-size="23" font-weight="500">Gather Rumors</text>
+<rect x="34" y="523" width="166" height="66" rx="10" fill="#eadac6"/>
+<text x="48" y="564" font-size="23" font-weight="700" fill="#20383f">MEDIUM</text>
+<rect x="225" y="523" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="562" font-size="23" font-weight="500">Maintain the Cannons</text>
+<rect x="680" y="523" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="562" font-size="23" font-weight="500">Handle Shipments</text>
+<rect x="1135" y="523" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="562" font-size="23" font-weight="500">Collect Debts</text>
+<rect x="34" y="595" width="166" height="66" rx="10" fill="#8f3d42"/>
+<text x="48" y="636" font-size="23" font-weight="700" fill="#ffffff">HARD</text>
+<rect x="225" y="595" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="634" font-size="23" font-weight="500">Repair the Ship</text>
+<rect x="680" y="595" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="634" font-size="23" font-weight="500">Move Contraband</text>
+<rect x="1135" y="595" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="634" font-size="23" font-weight="500">Track a Bounty</text>
+<rect x="34" y="667" width="166" height="66" rx="10" fill="#8f3d42"/>
+<text x="48" y="708" font-size="23" font-weight="700" fill="#ffffff">HARD</text>
+<rect x="225" y="667" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="706" font-size="23" font-weight="500">Prepare for Voyage</text>
+<rect x="680" y="667" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="706" font-size="23" font-weight="500">Coordinate a Smuggling Run</text>
+<rect x="1135" y="667" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="706" font-size="23" font-weight="500">Plan a Major Score</text>
+<rect x="34" y="739" width="166" height="66" rx="10" fill="#73639d"/>
+<text x="48" y="780" font-size="23" font-weight="700" fill="#ffffff">SECRET</text>
+<rect x="225" y="739" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="778" font-size="23" font-weight="500">Decipher the Cursed Char…</text>
+<rect x="680" y="739" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="778" font-size="23" font-weight="500">Raid the Royal Storehouse</text>
+<rect x="1135" y="739" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="766" font-size="23" font-weight="500">Infiltrate the Governor&#x27;s</text>
+<text x="1151" y="793" font-size="23" font-weight="500">Estate</text>
+<rect x="34" y="811" width="166" height="66" rx="10" fill="#e7c579"/>
+<text x="48" y="852" font-size="23" font-weight="700" fill="#20383f">PREMIUM</text>
+<rect x="225" y="811" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="241" y="850" font-size="23" font-weight="500">Master the Captain’s Wheel</text>
+<rect x="680" y="811" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="696" y="850" font-size="23" font-weight="500">Harbor Master Oversight</text>
+<rect x="1135" y="811" width="430" height="66" rx="10" fill="#ffffff"/>
+<text x="1151" y="838" font-size="23" font-weight="500">Operate the Black Market</text>
+<text x="1151" y="865" font-size="23" font-weight="500">Syndicate</text>
+<rect x="34" y="925" width="1531" height="273" rx="18" fill="#ffffff"/>
+<text x="58" y="971" font-size="30" font-weight="700">SISTEMA DE EJECUCIÓN</text>
+<text x="58" y="1019" font-size="25" font-weight="600">6 espacios desbloqueables.</text>
+<text x="58" y="1059" font-size="24" font-weight="400">Organiza y combina tus trabajos antes de comenzar.</text>
+<text x="58" y="1099" font-size="24" font-weight="400">Durante la ejecución no puedes añadir ni eliminar trabajos.</text>
+<text x="58" y="1155" font-size="26" font-weight="700">MP = Mastery Points</text>
+<rect x="1000" y="988" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1062" y="1028" font-size="30" font-weight="700">1</text>
+<rect x="1178" y="988" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1240" y="1028" font-size="30" font-weight="700">2</text>
+<rect x="1356" y="988" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1418" y="1028" font-size="30" font-weight="700">3</text>
+<rect x="1000" y="1066" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1062" y="1106" font-size="30" font-weight="700">4</text>
+<rect x="1178" y="1066" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1240" y="1106" font-size="30" font-weight="700">5</text>
+<rect x="1356" y="1066" width="150" height="60" rx="12" fill="#dce9ed" stroke="#9bb7be"/>
+<text x="1418" y="1106" font-size="30" font-weight="700">6</text>
+<text x="999" y="1173" font-size="20" font-weight="400">Izquierda → derecha · arriba → abajo</text>
+<text x="44" y="1236" font-size="21" font-weight="400">Fuente: PDF, págs. 1 y 3. El nombre «Decipher the Cursed Char…» está cortado en la fuente.</text>
+</g></svg>
