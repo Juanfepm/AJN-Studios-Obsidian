@@ -1,0 +1,330 @@
+---
+tags:
+  - idle-pirate
+  - tablas
+origen: "https://docs.google.com/spreadsheets/d/1bp8l-kHOI3SaXquYVBY9B5UbOPrxr5vK27CEKe9Lmrg/edit"
+fecha_importacion: 2026-10-18
+---
+
+# Pirate_Items_Table
+
+[Archivo original en Google Drive](https://docs.google.com/spreadsheets/d/1bp8l-kHOI3SaXquYVBY9B5UbOPrxr5vK27CEKe9Lmrg/edit) · [[Índice de tablas - Idle Pirate Game|Índice de tablas]]
+
+> [!info] Copia importada
+> Valores visibles del archivo original al importar. Las fórmulas y los resúmenes quedan como valores estáticos, sin sincronización con Drive. Las indicaciones del original sobre actualización automática corresponden a Google Sheets.
+
+## Overview
+
+[Pestaña original](https://docs.google.com/spreadsheets/d/1bp8l-kHOI3SaXquYVBY9B5UbOPrxr5vK27CEKe9Lmrg/edit#gid=45979351)
+
+Items
+
+| Rarity | MATERIALS | WEAPONS | BODY ARMOUR | HATS | ARTIFACTS | PETS |
+| --- | --- | --- | --- | --- | --- | --- |
+| COMMON | • Logs<br>• Rags<br>• Scrap<br>• Resin<br>• Coal<br>• Stone | • Rusty Cutlass<br>• Old Pistol<br>• Sailor's Knife<br>• Wooden Club<br>• Boarding Axe<br>• Short Sword<br>• Hunting Spear<br>• Worn Musket | • Worn Vest<br>• Sailor Shirt<br>• Leather Vest<br>• Cloth Coat<br>• Deckhand Jacket<br>• Old Coat<br>• Padded Shirt<br>• Simple Leather Coat | • Worn Bandana<br>• Sailor Cap<br>• Cloth Hood<br>• Old Tricorne<br>• Straw Hat<br>• Deckhand Cap<br>• Leather Bandana<br>• Simple Tricorne | • Lucky Coin — +2% coins earned<br>• Old Compass — +2% movement speed<br>• Spyglass — +2% discovery rewards<br>• Pocket Watch — -2% job time<br>• Dice Pair — +2% luck<br>• Sailor's Flask — +2% stamina<br>• Old Map — +2% exploration rewards<br>• Small Pouch — +2% material drops |  |
+| UNCOMMON | • Planks<br>• Cloth<br>• Iron<br>• Leather<br>• Oil<br>• Nails | • Iron Cutlass<br>• Flintlock Pistol<br>• Boarding Saber<br>• Heavy Axe<br>• Long Spear<br>• Deckhand's Blade<br>• Iron Musket | • Reinforced Vest<br>• Buccaneer Coat<br>• Leather Armour<br>• Iron-Banded Vest<br>• Corsair Jacket<br>• Officer Coat<br>• Raider Vest | • Leather Tricorne<br>• Buccaneer Hat<br>• Iron-Banded Cap<br>• Corsair Bandana<br>• Raider Hat<br>• Officer Cap<br>• Sea Hat | • Silver Compass — +4% movement speed<br>• Merchant Coin — +4% coins earned<br>• Treasure Map — +4% chest rewards<br>• Captain's Spyglass — +4% discovery rewards<br>• Loaded Dice — +4% luck<br>• Tool Kit — -4% crafting time<br>• Supply Bag — +4% material drops |  |
+| RARE | • Hardwood<br>• Canvas<br>• Steel<br>• Silver<br>• Gunpowder<br>• Pearl | • Silverhook Cutlass<br>• Twin-Barrel Flintlock<br>• Wavecrest Rapier<br>• Steelbeak War Axe<br>• Harpoon Pike<br>• Tidebreaker Falchion<br>• Stormlock Carbine | • Steel Vest<br>• Captain's Coat<br>• Reinforced Leather Armour<br>• Corsair Armour<br>• Gunner's Coat<br>• Veteran Jacket | • Steel Tricorne<br>• Captain's Hat<br>• Corsair Tricorne<br>• Reinforced Hood<br>• Gunner's Cap<br>• Veteran Hat | • Golden Compass — +6% movement speed<br>• Pirate Medallion — +6% reputation earned<br>• Rare Treasure Map — +6% chest rewards<br>• Hourglass — -6% job time<br>• Lucky Charm — +6% luck<br>• Explorer's Pack — +6% materials |  |
+| EPIC | • Reinforced Timber<br>• Fine Cloth<br>• Tempered Steel<br>• Gold<br>• Obsidian<br>• Crystal | • Black Cutlass<br>• Duelist Pistol<br>• Captain's Saber<br>• Executioner Axe<br>• Heavy Blunderbuss | • Blacksteel Vest<br>• War Captain's Coat<br>• Heavy Corsair Armour<br>• Admiral Coat<br>• Reinforced Battle Coat | • Black Tricorne<br>• War Captain's Hat<br>• Admiral Cap<br>• Storm Hood<br>• Raider Crown | • Captain's Medallion — +8% reputation<br>• Jeweled Spyglass — +8% discovery rewards<br>• Golden Hourglass — -8% job time<br>• Fortune Dice — +8% luck<br>• Masterwork Compass — +8% movement speed |  |
+| LEGENDARY | • Ironwood<br>• Silk<br>• Blacksteel<br>• Ancient Bone<br>• Darkstone<br>• Royal Gem | • King's Cutlass<br>• Golden Flintlock<br>• Admiral's Saber<br>• Kraken Axe<br>• Royal Blunderbuss | • King's Armour<br>• Golden Captain's Coat<br>• Kraken Armour<br>• Royal Admiral Coat<br>• Sea King Armour | • King's Tricorne<br>• Golden Captain's Hat<br>• Kraken Hat<br>• Royal Admiral Cap<br>• Sea King Crown | • King's Coin — +10% coins<br>• Admiral's Compass — +10% movement speed<br>• Ancient Map — +10% exploration rewards<br>• Royal Hourglass — -10% job time<br>• Golden Idol — +10% luck | • Scarlet Macaw — +10% Coins<br>• Capuchin Monkey — +10% Material Drops<br>• Black Cat — +10% Luck<br>• Sea Hawk — +10% Exploration Rewards |
+| MYTHIC | • Ancient Timber<br>• Spirit Cloth<br>• Starsteel<br>• Spirit Essence<br>• Star Fragment<br>• Leviathan Scale | • Leviathan Blade<br>• Starshot Pistol<br>• Abyss Saber<br>• Titan Axe<br>• Storm Blunderbuss | • Leviathan Armour<br>• Abyss Coat<br>• Stormlord Armour<br>• Star Captain's Coat<br>• Deep Sea Armour | • Leviathan Crown<br>• Abyss Tricorne<br>• Stormlord Hat<br>• Star Captain's Hat<br>• Deep Sea Crown | • Leviathan Tooth — +12% material drops<br>• Eye of the Deep — +12% discovery rewards<br>• Star Compass — +12% movement speed<br>• Ancient Idol — +12% reputation<br>• Fate Dice — +12% luck | • Baby Kraken — +15% Job Rewards<br>• Ghost Parrot — +15% Reputation<br>• White Raven — +15% Discovery Rewards<br>• Crystal Crab — +15% Rare Material Chance |
+| TREASURE | • Gilded Timber<br>• Gilded Cloth<br>• Gilded Steel<br>• Treasure Gem<br>• Ancient Coin | • Gilded Cutlass<br>• Treasure Hunter's Pistol<br>• Golden Fang<br>• Crown Splitter<br>• Fortune Blunderbuss | • Gilded Armour<br>• Treasure King Coat<br>• Fortune Vest<br>• Golden Admiral Armour<br>• Hoarder's Coat | • Gilded Tricorne<br>• Treasure King Crown<br>• Fortune Hat<br>• Golden Admiral Cap<br>• Crown of Riches | • Treasure King's Coin — +15% coins earned<br>• Bottomless Pouch — +15% material drops<br>• Golden Scarab — +15% luck<br>• Lost Treasure Map — +15% chest rewards<br>• Crown Jewel — +15% treasure rewards | • Golden Parrot — +15% Coins, +10% Treasure Rewards<br>• Gem Crab — +15% Chest Rewards, +10% Rare Material Chance<br>• Treasure Mimic — +15% Material Drops, +10% Luck |
+| CURSED | • Cursed Timber<br>• Cursed Cloth<br>• Cursed Steel<br>• Cursed Essence<br>• Shadow Shard | • Bloodfang<br>• Cursed Flintlock<br>• Soulreaver<br>• Doombringer | • Cursed Armour<br>• Bloodplate<br>• Soulbound Coat<br>• Doom Armour | • Cursed Tricorne<br>• Skull Crown<br>• Blood Captain's Hat<br>• Soul Hood | • Cursed Coin — +25% coins, -10% material drops<br>• Black Compass — +25% movement speed, -10% stamina<br>• Doom Dice — +25% luck, -10% coins<br>• Skull Idol — +25% reputation, -10% job speed | • Skeleton Monkey — +20% Material Drops, +15% Rare Material Chance<br>   ★ Grave Greed: every rare material drop has a chance to give an extra copy, but you earn 10% fewer Coins<br>• Shadow Raven — +20% Luck, +15% Treasure Rewards<br>   ★ Dark Omen: bad reward rolls have a chance to reroll into a better one, but your Job Speed is 8% slower<br>• Phantom Shark — +20% Exploration Rewards, +15% Job Rewards<br>   ★ Blood Hunt: after getting a high-rarity reward, your next reward gets a temporary +25% bonus, but your next job takes 10% longer |
+| BLESSED | • Blessed Timber<br>• Blessed Cloth<br>• Blessed Steel<br>• Holy Essence<br>• Sacred Crystal | • Sunblade<br>• Blessed Flintlock<br>• Holy Saber<br>• Heaven's Judgment | • Blessed Armour<br>• Sunplate<br>• Holy Captain's Coat<br>• Guardian Armour | • Halo Tricorne<br>• Blessed Captain's Hat<br>• Sun Crown<br>• Holy Admiral Cap | • Holy Compass — +15% movement speed<br>• Angel Feather — +15% stamina recovery<br>• Sacred Medal — +15% reputation<br>• Blessed Hourglass — -15% job time | • Sun Parrot — +12% Job Speed, +12% Reputation<br>   ★ Blessing: small chance for a completed job to instantly refund part of its cooldown<br>• Spirit Turtle — +15% Material Drops, +10% Coins<br>   ★ Protection: reduces negative penalties from other equipment/perks<br>• Celestial Dove — +12% Luck, +12% Exploration Rewards<br>   ★ Grace: bad/low-tier reward rolls have a small chance to reroll once |
+| EVENTS AND PROUD |  |  |  |  |  |  |
+| XMAS |  |  |  |  |  |  |
+
+## Item List
+
+[Pestaña original](https://docs.google.com/spreadsheets/d/1bp8l-kHOI3SaXquYVBY9B5UbOPrxr5vK27CEKe9Lmrg/edit#gid=1072780277)
+
+| # | Rarity | Tier | Category | Item | Effect / Bonuses | Special Perk |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Common | 1 | Materials | Logs |  |  |
+| 2 | Common | 1 | Materials | Rags |  |  |
+| 3 | Common | 1 | Materials | Scrap |  |  |
+| 4 | Common | 1 | Materials | Resin |  |  |
+| 5 | Common | 1 | Materials | Coal |  |  |
+| 6 | Common | 1 | Materials | Stone |  |  |
+| 7 | Common | 1 | Weapons | Rusty Cutlass |  |  |
+| 8 | Common | 1 | Weapons | Old Pistol |  |  |
+| 9 | Common | 1 | Weapons | Sailor's Knife |  |  |
+| 10 | Common | 1 | Weapons | Wooden Club |  |  |
+| 11 | Common | 1 | Weapons | Boarding Axe |  |  |
+| 12 | Common | 1 | Weapons | Short Sword |  |  |
+| 13 | Common | 1 | Weapons | Hunting Spear |  |  |
+| 14 | Common | 1 | Weapons | Worn Musket |  |  |
+| 15 | Common | 1 | Body Armour | Worn Vest |  |  |
+| 16 | Common | 1 | Body Armour | Sailor Shirt |  |  |
+| 17 | Common | 1 | Body Armour | Leather Vest |  |  |
+| 18 | Common | 1 | Body Armour | Cloth Coat |  |  |
+| 19 | Common | 1 | Body Armour | Deckhand Jacket |  |  |
+| 20 | Common | 1 | Body Armour | Old Coat |  |  |
+| 21 | Common | 1 | Body Armour | Padded Shirt |  |  |
+| 22 | Common | 1 | Body Armour | Simple Leather Coat |  |  |
+| 23 | Common | 1 | Hats | Worn Bandana |  |  |
+| 24 | Common | 1 | Hats | Sailor Cap |  |  |
+| 25 | Common | 1 | Hats | Cloth Hood |  |  |
+| 26 | Common | 1 | Hats | Old Tricorne |  |  |
+| 27 | Common | 1 | Hats | Straw Hat |  |  |
+| 28 | Common | 1 | Hats | Deckhand Cap |  |  |
+| 29 | Common | 1 | Hats | Leather Bandana |  |  |
+| 30 | Common | 1 | Hats | Simple Tricorne |  |  |
+| 31 | Common | 1 | Artifacts | Lucky Coin | +2% coins earned |  |
+| 32 | Common | 1 | Artifacts | Old Compass | +2% movement speed |  |
+| 33 | Common | 1 | Artifacts | Spyglass | +2% discovery rewards |  |
+| 34 | Common | 1 | Artifacts | Pocket Watch | -2% job time |  |
+| 35 | Common | 1 | Artifacts | Dice Pair | +2% luck |  |
+| 36 | Common | 1 | Artifacts | Sailor's Flask | +2% stamina |  |
+| 37 | Common | 1 | Artifacts | Old Map | +2% exploration rewards |  |
+| 38 | Common | 1 | Artifacts | Small Pouch | +2% material drops |  |
+| 39 | Uncommon | 2 | Materials | Planks |  |  |
+| 40 | Uncommon | 2 | Materials | Cloth |  |  |
+| 41 | Uncommon | 2 | Materials | Iron |  |  |
+| 42 | Uncommon | 2 | Materials | Leather |  |  |
+| 43 | Uncommon | 2 | Materials | Oil |  |  |
+| 44 | Uncommon | 2 | Materials | Nails |  |  |
+| 45 | Uncommon | 2 | Weapons | Iron Cutlass |  |  |
+| 46 | Uncommon | 2 | Weapons | Flintlock Pistol |  |  |
+| 47 | Uncommon | 2 | Weapons | Boarding Saber |  |  |
+| 48 | Uncommon | 2 | Weapons | Heavy Axe |  |  |
+| 49 | Uncommon | 2 | Weapons | Long Spear |  |  |
+| 50 | Uncommon | 2 | Weapons | Deckhand's Blade |  |  |
+| 51 | Uncommon | 2 | Weapons | Iron Musket |  |  |
+| 52 | Uncommon | 2 | Body Armour | Reinforced Vest |  |  |
+| 53 | Uncommon | 2 | Body Armour | Buccaneer Coat |  |  |
+| 54 | Uncommon | 2 | Body Armour | Leather Armour |  |  |
+| 55 | Uncommon | 2 | Body Armour | Iron-Banded Vest |  |  |
+| 56 | Uncommon | 2 | Body Armour | Corsair Jacket |  |  |
+| 57 | Uncommon | 2 | Body Armour | Officer Coat |  |  |
+| 58 | Uncommon | 2 | Body Armour | Raider Vest |  |  |
+| 59 | Uncommon | 2 | Hats | Leather Tricorne |  |  |
+| 60 | Uncommon | 2 | Hats | Buccaneer Hat |  |  |
+| 61 | Uncommon | 2 | Hats | Iron-Banded Cap |  |  |
+| 62 | Uncommon | 2 | Hats | Corsair Bandana |  |  |
+| 63 | Uncommon | 2 | Hats | Raider Hat |  |  |
+| 64 | Uncommon | 2 | Hats | Officer Cap |  |  |
+| 65 | Uncommon | 2 | Hats | Sea Hat |  |  |
+| 66 | Uncommon | 2 | Artifacts | Silver Compass | +4% movement speed |  |
+| 67 | Uncommon | 2 | Artifacts | Merchant Coin | +4% coins earned |  |
+| 68 | Uncommon | 2 | Artifacts | Treasure Map | +4% chest rewards |  |
+| 69 | Uncommon | 2 | Artifacts | Captain's Spyglass | +4% discovery rewards |  |
+| 70 | Uncommon | 2 | Artifacts | Loaded Dice | +4% luck |  |
+| 71 | Uncommon | 2 | Artifacts | Tool Kit | -4% crafting time |  |
+| 72 | Uncommon | 2 | Artifacts | Supply Bag | +4% material drops |  |
+| 73 | Rare | 3 | Materials | Hardwood |  |  |
+| 74 | Rare | 3 | Materials | Canvas |  |  |
+| 75 | Rare | 3 | Materials | Steel |  |  |
+| 76 | Rare | 3 | Materials | Silver |  |  |
+| 77 | Rare | 3 | Materials | Gunpowder |  |  |
+| 78 | Rare | 3 | Materials | Pearl |  |  |
+| 79 | Rare | 3 | Weapons | Silverhook Cutlass |  |  |
+| 80 | Rare | 3 | Weapons | Twin-Barrel Flintlock |  |  |
+| 81 | Rare | 3 | Weapons | Wavecrest Rapier |  |  |
+| 82 | Rare | 3 | Weapons | Steelbeak War Axe |  |  |
+| 83 | Rare | 3 | Weapons | Harpoon Pike |  |  |
+| 84 | Rare | 3 | Weapons | Tidebreaker Falchion |  |  |
+| 85 | Rare | 3 | Weapons | Stormlock Carbine |  |  |
+| 86 | Rare | 3 | Body Armour | Steel Vest |  |  |
+| 87 | Rare | 3 | Body Armour | Captain's Coat |  |  |
+| 88 | Rare | 3 | Body Armour | Reinforced Leather Armour |  |  |
+| 89 | Rare | 3 | Body Armour | Corsair Armour |  |  |
+| 90 | Rare | 3 | Body Armour | Gunner's Coat |  |  |
+| 91 | Rare | 3 | Body Armour | Veteran Jacket |  |  |
+| 92 | Rare | 3 | Hats | Steel Tricorne |  |  |
+| 93 | Rare | 3 | Hats | Captain's Hat |  |  |
+| 94 | Rare | 3 | Hats | Corsair Tricorne |  |  |
+| 95 | Rare | 3 | Hats | Reinforced Hood |  |  |
+| 96 | Rare | 3 | Hats | Gunner's Cap |  |  |
+| 97 | Rare | 3 | Hats | Veteran Hat |  |  |
+| 98 | Rare | 3 | Artifacts | Golden Compass | +6% movement speed |  |
+| 99 | Rare | 3 | Artifacts | Pirate Medallion | +6% reputation earned |  |
+| 100 | Rare | 3 | Artifacts | Rare Treasure Map | +6% chest rewards |  |
+| 101 | Rare | 3 | Artifacts | Hourglass | -6% job time |  |
+| 102 | Rare | 3 | Artifacts | Lucky Charm | +6% luck |  |
+| 103 | Rare | 3 | Artifacts | Explorer's Pack | +6% materials |  |
+| 104 | Epic | 4 | Materials | Reinforced Timber |  |  |
+| 105 | Epic | 4 | Materials | Fine Cloth |  |  |
+| 106 | Epic | 4 | Materials | Tempered Steel |  |  |
+| 107 | Epic | 4 | Materials | Gold |  |  |
+| 108 | Epic | 4 | Materials | Obsidian |  |  |
+| 109 | Epic | 4 | Materials | Crystal |  |  |
+| 110 | Epic | 4 | Weapons | Black Cutlass |  |  |
+| 111 | Epic | 4 | Weapons | Duelist Pistol |  |  |
+| 112 | Epic | 4 | Weapons | Captain's Saber |  |  |
+| 113 | Epic | 4 | Weapons | Executioner Axe |  |  |
+| 114 | Epic | 4 | Weapons | Heavy Blunderbuss |  |  |
+| 115 | Epic | 4 | Body Armour | Blacksteel Vest |  |  |
+| 116 | Epic | 4 | Body Armour | War Captain's Coat |  |  |
+| 117 | Epic | 4 | Body Armour | Heavy Corsair Armour |  |  |
+| 118 | Epic | 4 | Body Armour | Admiral Coat |  |  |
+| 119 | Epic | 4 | Body Armour | Reinforced Battle Coat |  |  |
+| 120 | Epic | 4 | Hats | Black Tricorne |  |  |
+| 121 | Epic | 4 | Hats | War Captain's Hat |  |  |
+| 122 | Epic | 4 | Hats | Admiral Cap |  |  |
+| 123 | Epic | 4 | Hats | Storm Hood |  |  |
+| 124 | Epic | 4 | Hats | Raider Crown |  |  |
+| 125 | Epic | 4 | Artifacts | Captain's Medallion | +8% reputation |  |
+| 126 | Epic | 4 | Artifacts | Jeweled Spyglass | +8% discovery rewards |  |
+| 127 | Epic | 4 | Artifacts | Golden Hourglass | -8% job time |  |
+| 128 | Epic | 4 | Artifacts | Fortune Dice | +8% luck |  |
+| 129 | Epic | 4 | Artifacts | Masterwork Compass | +8% movement speed |  |
+| 130 | Legendary | 5 | Materials | Ironwood |  |  |
+| 131 | Legendary | 5 | Materials | Silk |  |  |
+| 132 | Legendary | 5 | Materials | Blacksteel |  |  |
+| 133 | Legendary | 5 | Materials | Ancient Bone |  |  |
+| 134 | Legendary | 5 | Materials | Darkstone |  |  |
+| 135 | Legendary | 5 | Materials | Royal Gem |  |  |
+| 136 | Legendary | 5 | Weapons | King's Cutlass |  |  |
+| 137 | Legendary | 5 | Weapons | Golden Flintlock |  |  |
+| 138 | Legendary | 5 | Weapons | Admiral's Saber |  |  |
+| 139 | Legendary | 5 | Weapons | Kraken Axe |  |  |
+| 140 | Legendary | 5 | Weapons | Royal Blunderbuss |  |  |
+| 141 | Legendary | 5 | Body Armour | King's Armour |  |  |
+| 142 | Legendary | 5 | Body Armour | Golden Captain's Coat |  |  |
+| 143 | Legendary | 5 | Body Armour | Kraken Armour |  |  |
+| 144 | Legendary | 5 | Body Armour | Royal Admiral Coat |  |  |
+| 145 | Legendary | 5 | Body Armour | Sea King Armour |  |  |
+| 146 | Legendary | 5 | Hats | King's Tricorne |  |  |
+| 147 | Legendary | 5 | Hats | Golden Captain's Hat |  |  |
+| 148 | Legendary | 5 | Hats | Kraken Hat |  |  |
+| 149 | Legendary | 5 | Hats | Royal Admiral Cap |  |  |
+| 150 | Legendary | 5 | Hats | Sea King Crown |  |  |
+| 151 | Legendary | 5 | Artifacts | King's Coin | +10% coins |  |
+| 152 | Legendary | 5 | Artifacts | Admiral's Compass | +10% movement speed |  |
+| 153 | Legendary | 5 | Artifacts | Ancient Map | +10% exploration rewards |  |
+| 154 | Legendary | 5 | Artifacts | Royal Hourglass | -10% job time |  |
+| 155 | Legendary | 5 | Artifacts | Golden Idol | +10% luck |  |
+| 156 | Legendary | 5 | Pets | Scarlet Macaw | +10% Coins |  |
+| 157 | Legendary | 5 | Pets | Capuchin Monkey | +10% Material Drops |  |
+| 158 | Legendary | 5 | Pets | Black Cat | +10% Luck |  |
+| 159 | Legendary | 5 | Pets | Sea Hawk | +10% Exploration Rewards |  |
+| 160 | Mythic | 6 | Materials | Ancient Timber |  |  |
+| 161 | Mythic | 6 | Materials | Spirit Cloth |  |  |
+| 162 | Mythic | 6 | Materials | Starsteel |  |  |
+| 163 | Mythic | 6 | Materials | Spirit Essence |  |  |
+| 164 | Mythic | 6 | Materials | Star Fragment |  |  |
+| 165 | Mythic | 6 | Materials | Leviathan Scale |  |  |
+| 166 | Mythic | 6 | Weapons | Leviathan Blade |  |  |
+| 167 | Mythic | 6 | Weapons | Starshot Pistol |  |  |
+| 168 | Mythic | 6 | Weapons | Abyss Saber |  |  |
+| 169 | Mythic | 6 | Weapons | Titan Axe |  |  |
+| 170 | Mythic | 6 | Weapons | Storm Blunderbuss |  |  |
+| 171 | Mythic | 6 | Body Armour | Leviathan Armour |  |  |
+| 172 | Mythic | 6 | Body Armour | Abyss Coat |  |  |
+| 173 | Mythic | 6 | Body Armour | Stormlord Armour |  |  |
+| 174 | Mythic | 6 | Body Armour | Star Captain's Coat |  |  |
+| 175 | Mythic | 6 | Body Armour | Deep Sea Armour |  |  |
+| 176 | Mythic | 6 | Hats | Leviathan Crown |  |  |
+| 177 | Mythic | 6 | Hats | Abyss Tricorne |  |  |
+| 178 | Mythic | 6 | Hats | Stormlord Hat |  |  |
+| 179 | Mythic | 6 | Hats | Star Captain's Hat |  |  |
+| 180 | Mythic | 6 | Hats | Deep Sea Crown |  |  |
+| 181 | Mythic | 6 | Artifacts | Leviathan Tooth | +12% material drops |  |
+| 182 | Mythic | 6 | Artifacts | Eye of the Deep | +12% discovery rewards |  |
+| 183 | Mythic | 6 | Artifacts | Star Compass | +12% movement speed |  |
+| 184 | Mythic | 6 | Artifacts | Ancient Idol | +12% reputation |  |
+| 185 | Mythic | 6 | Artifacts | Fate Dice | +12% luck |  |
+| 186 | Mythic | 6 | Pets | Baby Kraken | +15% Job Rewards |  |
+| 187 | Mythic | 6 | Pets | Ghost Parrot | +15% Reputation |  |
+| 188 | Mythic | 6 | Pets | White Raven | +15% Discovery Rewards |  |
+| 189 | Mythic | 6 | Pets | Crystal Crab | +15% Rare Material Chance |  |
+| 190 | Treasure | 7 | Materials | Gilded Timber |  |  |
+| 191 | Treasure | 7 | Materials | Gilded Cloth |  |  |
+| 192 | Treasure | 7 | Materials | Gilded Steel |  |  |
+| 193 | Treasure | 7 | Materials | Treasure Gem |  |  |
+| 194 | Treasure | 7 | Materials | Ancient Coin |  |  |
+| 195 | Treasure | 7 | Weapons | Gilded Cutlass |  |  |
+| 196 | Treasure | 7 | Weapons | Treasure Hunter's Pistol |  |  |
+| 197 | Treasure | 7 | Weapons | Golden Fang |  |  |
+| 198 | Treasure | 7 | Weapons | Crown Splitter |  |  |
+| 199 | Treasure | 7 | Weapons | Fortune Blunderbuss |  |  |
+| 200 | Treasure | 7 | Body Armour | Gilded Armour |  |  |
+| 201 | Treasure | 7 | Body Armour | Treasure King Coat |  |  |
+| 202 | Treasure | 7 | Body Armour | Fortune Vest |  |  |
+| 203 | Treasure | 7 | Body Armour | Golden Admiral Armour |  |  |
+| 204 | Treasure | 7 | Body Armour | Hoarder's Coat |  |  |
+| 205 | Treasure | 7 | Hats | Gilded Tricorne |  |  |
+| 206 | Treasure | 7 | Hats | Treasure King Crown |  |  |
+| 207 | Treasure | 7 | Hats | Fortune Hat |  |  |
+| 208 | Treasure | 7 | Hats | Golden Admiral Cap |  |  |
+| 209 | Treasure | 7 | Hats | Crown of Riches |  |  |
+| 210 | Treasure | 7 | Artifacts | Treasure King's Coin | +15% coins earned |  |
+| 211 | Treasure | 7 | Artifacts | Bottomless Pouch | +15% material drops |  |
+| 212 | Treasure | 7 | Artifacts | Golden Scarab | +15% luck |  |
+| 213 | Treasure | 7 | Artifacts | Lost Treasure Map | +15% chest rewards |  |
+| 214 | Treasure | 7 | Artifacts | Crown Jewel | +15% treasure rewards |  |
+| 215 | Treasure | 7 | Pets | Golden Parrot | +15% Coins, +10% Treasure Rewards |  |
+| 216 | Treasure | 7 | Pets | Gem Crab | +15% Chest Rewards, +10% Rare Material Chance |  |
+| 217 | Treasure | 7 | Pets | Treasure Mimic | +15% Material Drops, +10% Luck |  |
+| 218 | Cursed | 8 | Materials | Cursed Timber |  |  |
+| 219 | Cursed | 8 | Materials | Cursed Cloth |  |  |
+| 220 | Cursed | 8 | Materials | Cursed Steel |  |  |
+| 221 | Cursed | 8 | Materials | Cursed Essence |  |  |
+| 222 | Cursed | 8 | Materials | Shadow Shard |  |  |
+| 223 | Cursed | 8 | Weapons | Bloodfang |  |  |
+| 224 | Cursed | 8 | Weapons | Cursed Flintlock |  |  |
+| 225 | Cursed | 8 | Weapons | Soulreaver |  |  |
+| 226 | Cursed | 8 | Weapons | Doombringer |  |  |
+| 227 | Cursed | 8 | Body Armour | Cursed Armour |  |  |
+| 228 | Cursed | 8 | Body Armour | Bloodplate |  |  |
+| 229 | Cursed | 8 | Body Armour | Soulbound Coat |  |  |
+| 230 | Cursed | 8 | Body Armour | Doom Armour |  |  |
+| 231 | Cursed | 8 | Hats | Cursed Tricorne |  |  |
+| 232 | Cursed | 8 | Hats | Skull Crown |  |  |
+| 233 | Cursed | 8 | Hats | Blood Captain's Hat |  |  |
+| 234 | Cursed | 8 | Hats | Soul Hood |  |  |
+| 235 | Cursed | 8 | Artifacts | Cursed Coin | +25% coins, -10% material drops |  |
+| 236 | Cursed | 8 | Artifacts | Black Compass | +25% movement speed, -10% stamina |  |
+| 237 | Cursed | 8 | Artifacts | Doom Dice | +25% luck, -10% coins |  |
+| 238 | Cursed | 8 | Artifacts | Skull Idol | +25% reputation, -10% job speed |  |
+| 239 | Cursed | 8 | Pets | Skeleton Monkey | +20% Material Drops, +15% Rare Material Chance | Grave Greed: every rare material drop has a chance to give an extra copy, but you earn 10% fewer Coins |
+| 240 | Cursed | 8 | Pets | Shadow Raven | +20% Luck, +15% Treasure Rewards | Dark Omen: bad reward rolls have a chance to reroll into a better one, but your Job Speed is 8% slower |
+| 241 | Cursed | 8 | Pets | Phantom Shark | +20% Exploration Rewards, +15% Job Rewards | Blood Hunt: after getting a high-rarity reward, your next reward gets a temporary +25% bonus, but your next job takes 10% longer |
+| 242 | Blessed | 9 | Materials | Blessed Timber |  |  |
+| 243 | Blessed | 9 | Materials | Blessed Cloth |  |  |
+| 244 | Blessed | 9 | Materials | Blessed Steel |  |  |
+| 245 | Blessed | 9 | Materials | Holy Essence |  |  |
+| 246 | Blessed | 9 | Materials | Sacred Crystal |  |  |
+| 247 | Blessed | 9 | Weapons | Sunblade |  |  |
+| 248 | Blessed | 9 | Weapons | Blessed Flintlock |  |  |
+| 249 | Blessed | 9 | Weapons | Holy Saber |  |  |
+| 250 | Blessed | 9 | Weapons | Heaven's Judgment |  |  |
+| 251 | Blessed | 9 | Body Armour | Blessed Armour |  |  |
+| 252 | Blessed | 9 | Body Armour | Sunplate |  |  |
+| 253 | Blessed | 9 | Body Armour | Holy Captain's Coat |  |  |
+| 254 | Blessed | 9 | Body Armour | Guardian Armour |  |  |
+| 255 | Blessed | 9 | Hats | Halo Tricorne |  |  |
+| 256 | Blessed | 9 | Hats | Blessed Captain's Hat |  |  |
+| 257 | Blessed | 9 | Hats | Sun Crown |  |  |
+| 258 | Blessed | 9 | Hats | Holy Admiral Cap |  |  |
+| 259 | Blessed | 9 | Artifacts | Holy Compass | +15% movement speed |  |
+| 260 | Blessed | 9 | Artifacts | Angel Feather | +15% stamina recovery |  |
+| 261 | Blessed | 9 | Artifacts | Sacred Medal | +15% reputation |  |
+| 262 | Blessed | 9 | Artifacts | Blessed Hourglass | -15% job time |  |
+| 263 | Blessed | 9 | Pets | Sun Parrot | +12% Job Speed, +12% Reputation | Blessing: small chance for a completed job to instantly refund part of its cooldown |
+| 264 | Blessed | 9 | Pets | Spirit Turtle | +15% Material Drops, +10% Coins | Protection: reduces negative penalties from other equipment/perks |
+| 265 | Blessed | 9 | Pets | Celestial Dove | +12% Luck, +12% Exploration Rewards | Grace: bad/low-tier reward rolls have a small chance to reroll once |
+
+## Summary
+
+[Pestaña original](https://docs.google.com/spreadsheets/d/1bp8l-kHOI3SaXquYVBY9B5UbOPrxr5vK27CEKe9Lmrg/edit#gid=101322300)
+
+Item Count by Rarity and Category
+
+Counts update automatically from the Item List sheet.
+
+| Rarity | Materials | Weapons | Body Armour | Hats | Artifacts | Pets | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Common | 6 | 8 | 8 | 8 | 8 | - | 38 |
+| Uncommon | 6 | 7 | 7 | 7 | 7 | - | 34 |
+| Rare | 6 | 7 | 6 | 6 | 6 | - | 31 |
+| Epic | 6 | 5 | 5 | 5 | 5 | - | 26 |
+| Legendary | 6 | 5 | 5 | 5 | 5 | 4 | 30 |
+| Mythic | 6 | 5 | 5 | 5 | 5 | 4 | 30 |
+| Treasure | 5 | 5 | 5 | 5 | 5 | 3 | 28 |
+| Cursed | 5 | 4 | 4 | 4 | 4 | 3 | 24 |
+| Blessed | 5 | 4 | 4 | 4 | 4 | 3 | 24 |
+| Events and Proud | - | - | - | - | - | - | - |
+| XMAS | - | - | - | - | - | - | - |
+| Total | 51 | 50 | 49 | 49 | 49 | 17 | 265 |
+
