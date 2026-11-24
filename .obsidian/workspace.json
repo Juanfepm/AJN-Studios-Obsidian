@@ -11,10 +11,14 @@
             "id": "679fa6ed7f1104b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tablas y Datos/Pirate_Items_Table.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Pirate_Items_Table"
             }
           }
         ]
